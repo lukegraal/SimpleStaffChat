@@ -1,0 +1,5 @@
+name: LukeStaffChat
+version: 1.0-SNAPSHOT
+main: com.github.lukegraal.staffchat.StaffChatPlugin
+api-version: 1.19
+author: Lukegraal
